@@ -1,8 +1,4 @@
 # my_project
-Perfecto, Pedro. Aquí tienes un README completo, profesional y listo para tu GitHub, totalmente adaptado a tu app de Streamlit sobre análisis de vehículos.
-Lo puedes copiar y pegar tal cual — ya viene con estructura, badges opcionales y una narrativa clara y atractiva.
-
----
 
 🚗 Análisis Interactivo de Vehículos en EE.UU.
 
